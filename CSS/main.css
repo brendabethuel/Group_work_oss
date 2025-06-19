@@ -29,7 +29,7 @@ body {
 }
 
 .darker {
-    background-image: linear-gradient(100deg, #001214, #001f29);
+    background-image: linear-gradient(100deg, #749b19, #365e01);
     color: white;
     transition: 0.3s linear;
 }
