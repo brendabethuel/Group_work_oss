@@ -39,7 +39,21 @@ body {
     margin: 0 1rem;
     min-height: 10vh;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(4px);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    font-size: 1.3rem;
+    
+    text-align: center;
 }
+
 
 #header {
     align-items: center;
